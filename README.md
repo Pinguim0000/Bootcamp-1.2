@@ -7,3 +7,6 @@ Apresentação:
 https://docs.google.com/presentation/d/1NYMBIhmhFe3m9kmsD3rOaRHCJPiNf4E3CdsLIOiGFqE/edit?usp=sharing 
  
  Página/Site: https://sites.google.com/view/felipe-villela-da-silva/p%C3%A1gina-inicial
+
+
+ PLANO DE IMPLANTAÇÃO: file:///C:/Users/ville/OneDrive/%C3%81rea%20de%20Trabalho/plano%20de%20implantacao.pdf
